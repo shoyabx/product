@@ -28,12 +28,6 @@ const projects = [
     tools: "GitHub Actions, Docker, Google Cloud, SSH GitOps",
     image: "/images/sapphire.png",
   },
-  {
-    title: "P2P Platform Roadmap",
-    category: "ERP Platform Leadership",
-    tools: "SAP Concur, SAP Ariba, Oracle R12 EBS, Power BI, SQL",
-    image: "/images/Maxlife.png",
-  },
 ];
 
 const Work = () => {
